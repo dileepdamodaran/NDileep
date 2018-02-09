@@ -1,3 +1,2 @@
-# NDileep
 
 CSE Blog 
