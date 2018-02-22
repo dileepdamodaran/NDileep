@@ -3,6 +3,8 @@ CSE Blog
 
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
+http://www.vogella.com/tutorials/JavaPerformance/article.html#memory
+
 
 **Blockchain**
 
