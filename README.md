@@ -19,3 +19,5 @@ https://stackify.com/java-performance/
 
 https://www.quora.com/How-does-sql-queries-functions-behind-scenes-and-returns-us-result
 
+** HTTP SESSION **
+https://stackoverflow.com/questions/7885525/where-is-the-httpsession-data-stored
