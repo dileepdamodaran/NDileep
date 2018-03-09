@@ -22,3 +22,6 @@ https://www.quora.com/How-does-sql-queries-functions-behind-scenes-and-returns-u
 **HTTP SESSION**
 
 https://stackoverflow.com/questions/7885525/where-is-the-httpsession-data-stored
+
+**WEALTH**
+https://medium.com/the-mission/7-surefire-strategies-to-build-massive-wealth-according-to-the-top-7-finance-books-bdaa8f348aab
