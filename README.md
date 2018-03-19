@@ -25,3 +25,6 @@ https://stackoverflow.com/questions/7885525/where-is-the-httpsession-data-stored
 
 **WEALTH**
 https://medium.com/the-mission/7-surefire-strategies-to-build-massive-wealth-according-to-the-top-7-finance-books-bdaa8f348aab
+
+**JAVASCRIPT**
+https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6
